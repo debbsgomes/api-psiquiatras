@@ -15,6 +15,6 @@ db.connect(); //conecta com o banco de dados
 
 const projetoRoutes = require("./routes/psiquiatrasBipolarRoutes");
 
-app.use("/", projetoRoutes);
+app.use("/", psiquiatrasBipolarRoutes);
 
 module.exports = app
