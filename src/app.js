@@ -9,11 +9,11 @@ const app = express(); //chama o express
 
 app.use(express.json());
 app.use(cors());
-app.use("/psiquiarasBipolar", index)
+app.use("/", index)
 
 db.connect(); //conecta com o banco de dados
 
-const projetoRoutes = require("./routes/psiquiatrasBipolarRoutes");
+const psiquiatrasBipolarRoutes = require("./routes/psiquiatrasBipolarRoutes");
 
 app.use("/", psiquiatrasBipolarRoutes);
 

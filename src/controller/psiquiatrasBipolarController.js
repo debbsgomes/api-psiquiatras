@@ -1,4 +1,4 @@
-const psiquiatraSchema = require("../models/psiquiatrasBipolarSchema");
+const psiquiatrasBipolarSchema = require("../models/psiquiatrasBipolarSchema");
 const mongoose = require('mongoose');
 
 const getAll = async(req, res) => {
