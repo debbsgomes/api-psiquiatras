@@ -4,5 +4,11 @@ const controller = require("../controller/psiquiatrasBipolarController"); // peg
 
 router.get("/all", controller.getAll);
 
+router.post("/create", controller.createPsiquiatra)
+
+router.patch("/update/:id", controller.updatePsiquiatraById)
+
+router.delete("/delete/:id", controller.deletePsiquiatraById)
+
 module.exports = router
 
