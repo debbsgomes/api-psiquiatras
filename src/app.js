@@ -9,7 +9,7 @@ const app = express(); //chama o express
 
 app.use(express.json());
 app.use(cors());
-app.use("/", index)
+app.use("/psiquiarasBipolar", index)
 
 db.connect(); //conecta com o banco de dados
 
