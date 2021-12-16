@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 const getAll = async(req, res) => {
     try{
-        const users = await psiquiatraBipolarSchema.find();
+        const users = await psiquiatrasBipolarSchema.find();
         res.status(200).json({
             message: "Usuário encontrado com sucesso",
             users
@@ -17,7 +17,7 @@ const getAll = async(req, res) => {
 
 const createPsiquiatra = async (req, res) => {
     try {
-        const newPsiquiatra = new psiquiatraBipolarSchema({
+        const newPsiquiatra = new psiquiatrasBipolarSchema({
             name: req.body.name,
             adress: req.body.adress,
             email: req.body.email,
@@ -40,7 +40,7 @@ const createPsiquiatra = async (req, res) => {
 
 const updatePsiquiatraById = async (req, res) => {
     try {
-        const findPsiquiatra = await psiquiatraBipolarSchema.findById(req.params.id)
+        const findPsiquiatra = await psiquiatrasBipolarSchema.findById(req.params.id)
         console.log(findPsiquiatra)
 
         if (findPsiquiatra) {
@@ -67,7 +67,7 @@ const updatePsiquiatraById = async (req, res) => {
 
 const deletePsiquiatraById = async (req, res) => {
     try {
-        const psiquiatraFound = await psiquiatraBipolarSchema.findById(req.params.id)
+        const psiquiatraFound = await psiquiatrasBipolarSchema.findById(req.params.id)
 
         await psiquiatraFound.delete()
 
