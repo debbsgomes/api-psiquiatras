@@ -1,7 +1,7 @@
 const mongoose = require("mongoose"); //para conectar com o banco de dados
 
 //criação de um objeto
-const usersSchema = new mongoose.Schema({
+const psiquiatrasBipolarSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true
@@ -27,6 +27,6 @@ const usersSchema = new mongoose.Schema({
     }
 }, {timestamps: true})
 
-const Users = mongoose.model("User", usersSchema);
+const psiquiatrasBipolar = mongoose.model("Psiquiatra", psiquiatrasBipolarSchema);
 
-module.exports = Users
+module.exports = psiquiatrasBipolar

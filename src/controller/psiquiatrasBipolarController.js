@@ -3,10 +3,10 @@ const mongoose = require('mongoose');
 
 const getAll = async(req, res) => {
     try{
-        const users = await psiquiatrasBipolarSchema.find();
+        const psiquiatrasBipolar = await psiquiatrasBipolarSchema.find();
         res.status(200).json({
-            message: "Usuário encontrado com sucesso",
-            users
+            message: "Psiquiatra encontrado com sucesso",
+            psiquiatrasBipolar
         })
     } catch (error) {
         res.status(500).json({
