@@ -26,7 +26,7 @@ const createPsiquiatra = async (req, res) => {
             _id: new mongoose.Types.ObjectId()
         })
 
-        const savePsiquiatra = await newPsiquiatra.save()
+        const savedPsiquiatra = await newPsiquiatra.save()
         res.status(200).json({
             message: "Psiquiatra adicionade com sucesso!",
             savedPsiquiatra

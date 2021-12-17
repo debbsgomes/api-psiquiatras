@@ -8,7 +8,6 @@ const psiquiatrasBipolarSchema = new mongoose.Schema({
     },
     adress: {
         type: String,
-        type: Number,
         required : true
     },
     email: {
