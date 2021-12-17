@@ -52,9 +52,9 @@ const updatePsiquiatraById = async (req, res) => {
         }
 
         const savedPsiquiatra = await findPsiquiatra.save()
-        console.log('Após Atualização', savedNote)
+        console.log('Após Atualização', savedPsiquiatra)
 
-        res,status(200).json({
+        res.status(200).json({
             message: "Psiquiatra atualizade com sucesso!!!",
             savedPsiquiatra
         })
