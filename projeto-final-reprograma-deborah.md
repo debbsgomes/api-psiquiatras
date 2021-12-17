@@ -10,7 +10,7 @@
 
 
 
-Eu sou uma pessoa trans, além disso tenho transtorno bipolar e sempre foi difícil conciliar as duas coisas, pera, deixa que explico. Durante anos sofro de depressão, mas não é uma depressão comum, é o quadro depressivo do transtorno bipolar, uma doença que mistura euforia com depressão e e perda de controle e cria as pessoas mais criativas do mundo, não que eu seja. Só que, os remédios receitados para depressão mais conhecida geralmente não funcionam muito bem em pacientes com quadro de transtorno bipolar. A depressão do transtorno bipolar é muito mais severa e remédios inadequados só pioram o caso, por ser trans durante anos eu não consegui encontrar um psiquiatra que quisesse me diagnosticar e me medicar com tal transtorno, por ser algo que confrontava com o antigo CID de "transexualismo", por esse motivo criei uma API de médicos especializados em transtorno bipolar na minha cidade, Niterói, a princípio não sei quais deles iriam tratar bem uma pessoa trans ou não, mas já é um começo ir a médicos especializados no problema que você tem, psiquiatras generalistas geralmente tem medo, sim, medo de diagnosticar uma pessoa com transtorno bipolar, e bem, caso algum dos médicos não seja um bom profissional podemos sempre usar o D do CRUD não é mesmo?
+Eu sou uma pessoa trans, além disso tenho transtorno bipolar e sempre foi difícil conciliar as duas coisas, pera, deixa que explico. Durante anos sofro de depressão, mas não é uma depressão comum, é o quadro depressivo do transtorno bipolar, uma doença que mistura euforia com depressão e perda de controle e cria as pessoas mais criativas do mundo, não que eu seja. Só que, os remédios receitados para depressão mais conhecida geralmente não funcionam muito bem em pacientes com quadro de transtorno bipolar. A depressão do transtorno bipolar é muito mais severa e remédios inadequados só pioram o caso, por ser trans durante anos eu não consegui encontrar um psiquiatra que quisesse me diagnosticar e me medicar com tal transtorno, por ser algo que confrontava com o antigo CID de "transexualismo", por esse motivo criei uma API de médicos especializados em transtorno bipolar na minha cidade, Niterói, a princípio não sei quais deles iriam tratar bem uma pessoa trans ou não, mas já é um começo ir a médicos especializados no problema que você tem, psiquiatras generalistas geralmente tem medo, sim, medo de diagnosticar uma pessoa com transtorno bipolar, e bem, caso algum dos médicos não seja um bom profissional podemos sempre usar o D do CRUD não é mesmo?
 
 
 
@@ -155,7 +155,7 @@ MONGODB_URL = URL do `MongoDb Atlas` Banco de dados orientado a documentos e int
 
 | Método HTTP | Endpoint                 | Descrição                        |
 | ----------- | ------------------------ | -------------------------------- |
-| GET         | `http://localhost:7070/` | Mensagem de apresentação (Index) |
+| GET         | `http://localhost:3000/` | Mensagem de apresentação (Index) |
 
 
 
