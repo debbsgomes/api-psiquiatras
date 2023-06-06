@@ -5,10 +5,6 @@ API Psiquiatras Transtorno Bipolar
 
 
 
-!![Doctor Chopper (@Doctor_Chopper_) / Twitter](https://pbs.twimg.com/profile_images/378800000855631867/1fac0bd0a698198448d464cad5cd095a_400x400.jpeg)
-
-
-
 ## 💻 Sobre o projeto
 
 
