@@ -9,7 +9,7 @@ API Psiquiatras Transtorno Bipolar
 
 
 
-O projeto visa ajudar pacientes com transtorno bipolar a conseguir achar médicos especializados no assunto, principalmente para o público LGBT, já que os stigma é em dobro e nem todo profissional sabe lidar com esse tipo de paciente
+O projeto visa ajudar pacientes com transtorno bipolar a conseguir achar médicos especializados no assunto, principalmente para o público LGBT, já que os stigma é em dobro e nem todo profissional sabe lidar com esse tipo de paciente.
 
 
 
