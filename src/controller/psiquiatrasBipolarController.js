@@ -89,3 +89,5 @@ module.exports = {
     updatePsiquiatraById,
     deletePsiquiatraById
 }
+
+//controller da aplicação
