@@ -15,3 +15,5 @@ const connect = async () => {
 module.exports = {
     connect
 }
+
+// banco de dados
