@@ -11,5 +11,3 @@ router.patch("/update/:id", controller.updatePsiquiatraById)
 router.delete("/delete/:id", controller.deletePsiquiatraById)
 
 module.exports = router
-
-// rota psiquiatras
