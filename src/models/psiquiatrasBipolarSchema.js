@@ -29,3 +29,6 @@ const psiquiatrasBipolarSchema = new mongoose.Schema({
 const psiquiatrasBipolar = mongoose.model("Psiquiatra", psiquiatrasBipolarSchema);
 
 module.exports = psiquiatrasBipolar
+
+
+// lista os objetos
