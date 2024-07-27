@@ -18,3 +18,6 @@ const psiquiatrasBipolarRoutes = require("./routes/psiquiatrasBipolarRoutes");
 app.use("/", psiquiatrasBipolarRoutes);
 
 module.exports = app
+
+
+// logica basica da aplicação
