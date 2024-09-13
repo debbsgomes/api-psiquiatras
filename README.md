@@ -9,17 +9,17 @@ API Psiquiatras Transtorno Bipolar
 
 
 
-O projeto visa ajudar pacientes com transtorno bipolar a conseguir achar médicos especializados no assunto, principalmente para o público LGBT, já que os stigma é em dobro e nem todo profissional sabe lidar com esse tipo de paciente.
+O projeto visa ajudar pacientes com transtornos diversos a conseguir achar médicos especializados nas áreas, principalmente para o público LGBT, já que os estigma é em dobro e nem todo profissional sabe lidar com esse tipo de paciente.
 
 
 
 
 
-## 🚀 Descrição da API Psiquiatras Bipolaridade
+## 🚀 Descrição da API Psiquiatras
 
 
 
-O projeto é uma API REST usada para listar psiquiatras especializados em transtorno bipolar, agora focando nos médicos de Niterói/RJ, talvez expandindo para outras localidades. O objetivo é facilitar o acesso desses pacientes a esses profissionais em um só lugar, já que outras plataformas não são muito especificas quanto a especialidade dos profissionais. 
+O projeto é uma API REST usada para listar psiquiatras especializados em transtornos diversos, agora focando nos médicos de Niterói/RJ, talvez expandindo para outras localidades. O objetivo é facilitar o acesso desses pacientes a esses profissionais em um só lugar, já que outras plataformas não são muito especificas quanto a especialidade dos profissionais. 
 
 A interface é um CRUD completo integrado com o banco de dados, onde é possível listar os psiquiatras cadastrados, cadastrar novos psiquiatras, atualizar os dados e também deletar algum médico da lista.
 
@@ -31,10 +31,10 @@ API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Repr
 
 ## ⚙️ Funcionalidades/Objetivos
 
-- Cadastro de psiquiatras especializados em transtorno bipolar;
+- Cadastro de psiquiatras especializados em transtornos diversos;
 - Acesso mais fácil para os pacientes;
 - Comentários sobre a atuação dos médicos;
-- Melhorar o atendimento a pessoas com transtorno bipolar;
+- Melhorar o atendimento a pessoas com transtornos;
 
 
 
