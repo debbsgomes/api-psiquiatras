@@ -222,14 +222,6 @@ MONGODB_URL = URL do `MongoDb Atlas` Banco de dados orientado a documentos e int
 
 
 
-## 👋 Olar!!
-
-
-
-![Kureha | Wiki | One Piece Brasil™ Amino](http://pm1.narvii.com/7431/b6e1758f1f33ee9c07f0490a3d192c28c6bbe0a0r1-340-292v2_00.jpg)
-
-
-
 ### Vamos nos conectar!
 
 - [LinkedIn](https://www.https://www.linkedin.com/in/deborahgomes123/)
