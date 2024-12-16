@@ -23,7 +23,7 @@ O projeto é uma API REST usada para listar psiquiatras especializados em transt
 
 A interface é um CRUD completo integrado com o banco de dados, onde é possível listar os psiquiatras cadastrados, cadastrar novos psiquiatras, atualizar os dados e também deletar algum médico da lista.
 
-API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/)
+API desenvolvida como Projeto Final para a conclusão do curso de Back-end [{Reprograma}](https://reprograma.com.br/)
 
 
 
